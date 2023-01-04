@@ -2,6 +2,7 @@
 
 ![Simulator Screen Recording - iPhone 13 Pro Max - 2023-01-04 at 22 38 16](https://user-images.githubusercontent.com/42196410/210567263-ef2c9da4-b6a9-45fd-b775-4c141f5959fb.gif)
 
+![Simulator Screen Recording - iPhone 13 Pro Max - 2023-01-04 at 23 01 53](https://user-images.githubusercontent.com/42196410/210571676-9b4eef8c-6dfc-4fe6-84c5-25f458715cc8.gif)
 
 ## 🧩 개요
 
